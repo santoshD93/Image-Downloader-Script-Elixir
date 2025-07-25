@@ -1,5 +1,3 @@
-# Getsafe
-
 # Image Downloader Script Documentation
 
 Introduction
